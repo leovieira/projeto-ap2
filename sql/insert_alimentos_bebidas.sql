@@ -1,0 +1,17 @@
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Água-de-coco', '1 copo (200 ml)', 40, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Caipirinha', '1 copo (100 ml)', 260, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Cerveja', '1 lata(350 ml)', 147, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Chá diet', '1 copo (200 ml)', 3, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Champanhe seco', '1 taça (120)', 85, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Chope', '1 copo (300 ml)', 126 , 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Coquetel de frutas', '1 copo (100 ml)', 80, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Licor ', '1 cálice (50 ml)', 170, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Refrigerante diet ', '1 copo (200 ml)', 3, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Refrigerante normal', '1 copo (200 ml)', 115, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Prosecco', '1 taça (120 ml)', 85, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Suco de laranja ', '1 copo (250 ml)', 160, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Uísque ou vodca ', '1 dose (50 ml)', 108, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Vinho branco seco', '1 taça (120 ml)', 90, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Vinho branco doce', '1 taça (120)', 170, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Vinho tinto seco', '1 taça (120 ml)', 110, 16);
+INSERT INTO alimentos(nome, porcao, calorias, cod_categoria) VALUES('Vitamina de frutas com leite', '1 copo (250 ml)', 95, 16);

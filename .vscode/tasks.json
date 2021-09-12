@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "C/C++: Build .exe",
+      "command": "C:\\MinGW\\bin\\gcc.exe",
+      "args": [
+        "-g",
+        "${file}",
+        "${fileDirname}\\libs\\sqlite3.o",
+        "${fileDirname}\\src\\functions.c",
+        "-o",
+        "${fileDirname}\\build\\${fileBasenameNoExtension}.exe"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": ["$gcc"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "detail": "compiler: C:\\MinGW\\bin\\gcc.exe"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+INSERT INTO categorias(nome) VALUES('FRUTAS');
+INSERT INTO categorias(nome) VALUES('VERDURAS E LEGUMES');
+INSERT INTO categorias(nome) VALUES('CARNES, FRIOS E OVOS');
+INSERT INTO categorias(nome) VALUES('PEIXES E FRUTOS DO MAR');
+INSERT INTO categorias(nome) VALUES('LEITE E IOGURTES');
+INSERT INTO categorias(nome) VALUES('QUEIJOS');
+INSERT INTO categorias(nome) VALUES('MASSAS');
+INSERT INTO categorias(nome) VALUES('GRÃOS');
+INSERT INTO categorias(nome) VALUES('PÃES E BISCOITOS');
+INSERT INTO categorias(nome) VALUES('DOCES E SOBREMESAS');
+INSERT INTO categorias(nome) VALUES('PETISCOS');
+INSERT INTO categorias(nome) VALUES('SANDUÍCHES');
+INSERT INTO categorias(nome) VALUES('PRATOS VARIADOS');
+INSERT INTO categorias(nome) VALUES('ÓLEOS E GORDURAS');
+INSERT INTO categorias(nome) VALUES('MOLHOS E TEMPEROS');
+INSERT INTO categorias(nome) VALUES('BEBIDAS');
